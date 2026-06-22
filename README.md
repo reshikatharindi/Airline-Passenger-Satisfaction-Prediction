@@ -13,7 +13,8 @@ This project focuses on predicting airline passenger satisfaction using supervis
 
 ## Dataset
 
-- **Source:** Airline Passenger Satisfaction Dataset
+- **Source:** Kaggle 
+- **Name:** Airline Passenger Satisfaction Dataset
 - **Records:** 25,977
 - **Features:** 23
 - **Target Variable:** Passenger Satisfaction (Satisfied / Dissatisfied)
